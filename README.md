@@ -33,6 +33,12 @@
 
 *Overall, Food Vault envisions a world where culinary creativity and knowledge are seamlessly shared, empowering individuals to embark on a journey of culinary exploration and discovery.*
 
+
+## USE CASE DIAGRAM
+
+
 <p align="center">
-  <img src="https://static.vecteezy.com/system/resources/previews/005/520/436/original/cartoon-drawing-of-a-chef-vector.jpg"  width="500" height="500">
+  <img src="https://github.com/Shiranakther/Online-Recipie-Management-System/assets/127624730/e9d88f90-e483-4b1f-b3ec-93fb1f76eff8"  width="500" height="500">
 </p>
+
+
