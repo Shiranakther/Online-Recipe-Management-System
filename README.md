@@ -33,5 +33,6 @@
 
 *Overall, Food Vault envisions a world where culinary creativity and knowledge are seamlessly shared, empowering individuals to embark on a journey of culinary exploration and discovery.*
 
-![A beautiful flower]([https://example.com/images/flower.jpg "Beautiful flower](https://static.vecteezy.com/system/resources/previews/005/520/436/original/cartoon-drawing-of-a-chef-vector.jpg)")
- ![alt text](image_url "https://static.vecteezy.com/system/resources/previews/005/520/436/original/cartoon-drawing-of-a-chef-vector.jpg")
+<p align="center">
+  <img src="https://static.vecteezy.com/system/resources/previews/005/520/436/original/cartoon-drawing-of-a-chef-vector.jpg"  width="500" height="500">
+</p>
