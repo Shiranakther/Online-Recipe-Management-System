@@ -2,7 +2,7 @@
 # ONLINE RECIPE MANAGEMENT SYSTEM
 
  
-## HYPOTHETICAL SCENARIO
+## HYPOTHETICAL SCENARIO OF THE PROJECT
 
 
 *Food Vault is a cloud-based recipe management system designed to empower home cooks and culinary enthusiasts alike. Users can effortlessly browse through a vast collection of recipes, filtering their search by keywords such as recipe name, ingredients, cuisines, and cooking methods. Registered users can seamlessly upload their own culinary creations, enriching the platform with a diverse array of recipes from around the world. To ensure the quality and authenticity of recipes, Food Vault empowers users to rate and comment on published recipes, fostering a vibrant community of food enthusiasts.*
