@@ -13,7 +13,7 @@
 
     body{
         font-family:roboto,arial;
-       
+        height:3000px;
     }
     .container{
         margin-top: 0;
@@ -90,6 +90,7 @@
         flex-direction:column;
         justify-content: center;
         align-items: center;
+        margin-bottom:20px;
 
     }
     .search-text{
@@ -174,7 +175,7 @@ margin-bottom: 15px;;
         color: orange;
       }
     .content-primary-trend{
-        background-color: rgb(238, 243, 255);
+        /*background-color: rgb(238, 243, 255);*/
         width:35%;
         display: flex;
         flex-direction:column;
@@ -190,6 +191,7 @@ margin-bottom: 15px;;
       font-weight: bold;
       margin-bottom: 20px;
       background-color: #024f8e;
+      border-radius:15px;
     }
     .content-primary-trend-div{
         
@@ -223,5 +225,29 @@ margin-bottom: 15px;;
        font-size: 50px;
        font-weight: bold;
        color: #022b4d;
+    }
+    .latest-recipe-grid{
+        display:flex;
+        flex-direction:column;
+    }
+    .latest-recipe-grid-box{
+        display:flex;
+        flex-direction:row;
+        justify-content: space-evenly;
+        margin-bottom:5px;
+    }
+    .latest-recipe-grid-box-image{
+        height:350px;
+        width:350px;
+        background-color: yellow;
+        border:3px black solid;
+        display:flex;
+        flex-direction:column;
+    }
+    .grid-box-img{
+        height:200px;
+        width:200px;
+        background-color:black;
+        margin:10px auto 5px auto;
     }
   }
