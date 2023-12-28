@@ -239,15 +239,67 @@ margin-bottom: 15px;;
     .latest-recipe-grid-box-image{
         height:350px;
         width:350px;
-        background-color: yellow;
-        border:3px black solid;
+        /*background-color: yellow;
+        border:3px black solid;*/
         display:flex;
         flex-direction:column;
     }
     .grid-box-img{
         height:200px;
-        width:200px;
-        background-color:black;
+        width:100%;
+        /*background-color:black;*/
         margin:10px auto 5px auto;
+    }
+    .grid-box-content-content1{
+        font-size:17px;
+        color:#616161;
+    }
+    .grid-box-content-content2{
+        font-size:29px;
+        margin:5px 0 10px 0;
+        font-weight:bold;
+    }
+    .grid-box-content-content3{
+        font-size:1vw;
+        color:rgb(239, 136, 0);
+        font-weight:bold;
+    }
+    .trending-image{
+        height:185px;
+        width:100%;
+        background-color: black;
+        margin:5px auto 5px auto;
+        border-radius:5px;
+    }
+    .new-year-wish{
+        height:400px;
+        width:100%;
+        position: relative;
+
+    }
+    .new-year-wish-image{
+        height:400px;
+        width:100%;
+    }
+    .new-year-wish-text{
+        position: absolute;
+        top:80px;
+        left:190px;
+       background-color: white;
+       height:210px;
+       width:400px;
+       border-radius:15px;
+       box-shadow: 2px 3px 3px 3px #000000;
+    }
+    .wish-header{
+        font-size:40px;
+        font-weight:bold;
+       margin:30px 0 0 20px;
+    }
+    .wish-header2{
+        margin:20px 5px 0 20px;
+        font-size:16px;
+        color:#616161;
+
     }
   }
