@@ -13,7 +13,7 @@
 
     body{
         font-family:roboto,arial;
-        height:3000px;
+        
     }
     .container{
         margin-top: 0;
@@ -301,5 +301,67 @@ margin-bottom: 15px;;
         font-size:16px;
         color:#616161;
 
+        
+    }
+    .newsletter{
+        height:150px;
+        width:100%;
+        background-color: rgb(222, 231, 255);
+        margin-top:15px;
+        display:flex;
+        flex-direction:row;
+        justify-content:space-evenly;
+        align-items: center;
+    }
+    .newsletter-content {
+       font-size:25px;
+       font-weight:bold;
+    }
+    .newsletter-mail{
+        display:flex;
+        justify-content: center;
+    }
+    .newsletter-mail input{
+        height:40px;
+        width: 250px;
+        border:none;
+        color:black;
+        font-size:18px;
+        padding-left:5px;
+        outline:none;
+        border-radius:5px;
+    }
+    .newsletter-mail button{
+        height:42px;
+        width: 100px;
+        background-color: #022b4d;
+        border:none;
+        color:white;
+        font-size:18px;
+        font-weight:bold;
+        border-radius:5px;
+        border:none;
+        cursor:pointer;
+        margin-left:-10px;
+    }
+    .footer{
+        display:flex;
+        flex-direction:row;
+        justify-content: space-between;
+        height:300px;
+    }
+    .footer div{
+        width:300px;
+        background-color: rgb(239, 136, 0);
+    }
+    .credit{
+        height:60px;
+        display:flex;
+        align-items: center;
+        justify-content: center;
+        color:white;
+        font-size: 15px;
+        font-weight: bold;
+        background-color: black;
     }
   }
