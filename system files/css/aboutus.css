@@ -1,0 +1,77 @@
+body {
+    background-image: url('../images/bosy-login.webp');
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-size: cover; 
+    
+    font-family:roboto;
+ }
+
+.wrapper{
+background-color: rgba(0,0,0, 0.6);
+margin:0px;
+}
+.aboutus-topic{
+    font-size: 35px;    
+    font-weight: bold;
+    text-align: center;
+    margin-top: 15px;
+   color:white;
+    
+}
+.aboutus-topic-c1{
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+    color:white;
+}
+.aboutus-topic-c2{
+   
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+    color:white;
+   display:flex;
+   flex-direction: row;
+   justify-content: center;
+   align-items: center;
+   font-weight:normal;
+    
+}
+.wid{
+    width:600px;
+    
+    border-radius:10px;
+    padding:15px;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* Three columns with equal width */
+    grid-gap: 10px; /* Gap between grid items */
+    padding: 20px;
+}
+
+.grid-item {
+    border: 1px solid #ccc;
+    padding: 20px;
+    text-align: center;
+    border-radius:15px;
+    
+}
+.grid-topic{
+color:white;
+font-size:25px;
+margin-bottom:10px;
+}
+.grid-content{
+color:white;
+font-weight:100;
+}
+.wid2{
+   
+    text-align: center;
+    font-size:20px;
+    padding-bottom:50px;
+}
