@@ -41,4 +41,25 @@
   <img src="https://github.com/Shiranakther/Online-Recipie-Management-System/assets/127624730/e9d88f90-e483-4b1f-b3ec-93fb1f76eff8"  width="500" height="500">
 </p>
 
+## Website
+
+### Login page 
+
+![login](https://github.com/Shiranakther/Online-Recipe-Management-System/assets/127624730/2a356187-43a1-4c02-9003-cd7cc656749a)
+
+
+### Register page 
+
+![reg](https://github.com/Shiranakther/Online-Recipe-Management-System/assets/127624730/0cb571eb-7195-48f9-82b9-3bc4384d1f9b)
+
+### Home page 
+![home](https://github.com/Shiranakther/Online-Recipe-Management-System/assets/127624730/3ab59f5c-e024-4ca7-85a4-c0f91222cc26)
+
+![home2](https://github.com/Shiranakther/Online-Recipe-Management-System/assets/127624730/025a2f21-f283-4f9b-980b-306de84f886f)
+
+![home3](https://github.com/Shiranakther/Online-Recipe-Management-System/assets/127624730/16e6b43b-b52f-4028-abd4-302c3cbef090)
+
+
+
+
 
